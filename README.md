@@ -3,13 +3,11 @@
 <h1 align="center">Halo, namaku Aryo Satriojati! 👋</h1>
 
 <p align="center">
-  <img src="![giphy](https://github.com/Jimmooo/Jimmoo/assets/144150362/52f1e3c8-01b7-4016-a735-4876c3e7358b)
-" alt="Profile Picture" width="200">
+  <img src="https://media4.giphy.com/media/cJZGTqvVk7LspXHfT6/giphy.gif?cid=ecf05e474g4agfopa7t20ibd4f9ahwtroei86tcogtxj3otm&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Profile Picture" width="200">
 </p>
 
 <p align="center">
-  I'm a passionate [Your Profession or Interests] from [Your Location].<br>
-  Welcome to my GitHub profile!
+ Namaku Aryo Satriojati, bisa dipanggil "Aryo" atau "Jimmo"
 </p>
 
 <h2 align="center">🌟 About Me</h2>
@@ -21,7 +19,7 @@
 <h2 align="center">🚀 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmooo&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <h2 align="center">🌐 Connect with Me</h2>
@@ -30,10 +28,10 @@
   <a href="https://instagram.com/jimooo.o" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-orange?logo=instagram&style=for-the-badge" >
   </a>
-  <a href="https://linkedin.com/in/your_linkedin_profile" target="_blank">
+  <a href="https://www.linkedin.com/in/aryo-satriojati-47684a251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:aryosatriojati@mail.ugm.ac.id">
     <img src="https://img.shields.io/badge/Email-Contact-green" alt="Email">
   </a>
 </p>
