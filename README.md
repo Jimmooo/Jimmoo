@@ -14,7 +14,6 @@
 
 - 🌱 I'm Interested in Geoscience and Programming
 - 🎯 My hobby is Listening to music and watching one piece
-- ⚔ 
 - 🔭 I’m currently on a journey to build great things
 
 <h2 align="center">🚀 GitHub Stats</h2>
