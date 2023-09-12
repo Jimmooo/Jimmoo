@@ -7,13 +7,12 @@
 </p>
 
 <p align="center">
- Namaku Aryo Satriojati, bisa dipanggil "Aryo" atau "Jimmo"
+ Namaku Aryo Satriojati, bisa dipanggil "Aryo" atau "Jimmo" , Saat ini aku sedng menjalani pendidikan di Program Studi Geofisika Universitas Gadjah Mada
 </p>
 
 <h2 align="center">🌟 About Me</h2>
 
 - 🌱 Saat ini aku tertarik mempelajari pemrograman dan ilmu kebumian
-- 💼 saat ini saya sedang menjalani pendidikan sebagai mahasiswa di  Universitas Gadjah Mada
 - 🎯 Hobiku nonton one piece dan mendengarkan musik
 
 <h2 align="center">🚀 GitHub Stats</h2>
