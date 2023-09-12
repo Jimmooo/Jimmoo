@@ -12,9 +12,9 @@
 
 <h2 align="center">🌟 About Me</h2>
 
-- 🌱 I'm constantly learning and exploring new technologies and programming languages.
+- 🌱 Saat ini aku tertarik mempelajari pemrograman dan ilmu kebumian
 - 💼 saat ini saya sedang menjalani pendidikan sebagai mahasiswa di  Universitas Gadjah Mada
-- 🎯 My goal is to [Your Career or Personal Goals].
+- 🎯 Hobiku nonton one piece dan mendengarkan musik
 
 <h2 align="center">🚀 GitHub Stats</h2>
 
