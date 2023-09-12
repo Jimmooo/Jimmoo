@@ -14,6 +14,8 @@
 
 - 🌱 Saat ini aku tertarik mempelajari pemrograman dan ilmu kebumian
 - 🎯 Hobiku nonton one piece dan mendengarkan musik
+- ⚔
+- 
 
 <h2 align="center">🚀 GitHub Stats</h2>
 
@@ -30,6 +32,9 @@
   <a href="https://www.linkedin.com/in/aryo-satriojati-47684a251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
+  <a href="https://open.spotify.com/track/6RKzBTBbFh1oKzm7rdxBXq?si=326a46b084234cf2">
+    <img src="https://spotify-badge.vercel.app/api/follow/your_spotify_id?style=for-the-badge" alt="dengerin ae mantep ni lagu" />
+</a>
   <a href="mailto:aryosatriojati@mail.ugm.ac.id">
     <img src="https://img.shields.io/badge/Email-Contact-green" alt="Email">
   </a>
